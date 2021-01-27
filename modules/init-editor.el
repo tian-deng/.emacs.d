@@ -94,6 +94,7 @@
   ;; 如果你需要在 NORMAL 下使用相对行号（基于 display-line-numbers-mode）
   ;; (meow-setup-line-number)
   ;; 如果你需要自动的 mode-line 设置（如果需要自定义见下文对 `meow-indicator' 说明）
-  (meow-setup-indicator))
+  ;;(meow-setup-indicator))
+)
 
 (provide 'init-editor)
